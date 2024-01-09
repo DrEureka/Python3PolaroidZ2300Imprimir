@@ -16,7 +16,7 @@ La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros di
 **# Requisitos:**
 
 - Python 3.x
-- Biblioteca de imágenes Python (PIL)
+- Biblioteca de imágenes Python (PIL) (pip install Pillow o pip install --upgrade Pillow)
 
 **# Uso:**
 
@@ -25,7 +25,8 @@ La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros di
 3. Abre una sesión de shell en la tarjeta SD y ejecuta el siguiente comando:
 
 ```
-python Polaroid Z2300-FotosAImprimir.py
+
+python "Polaroid Z2300-FotosAImprimir.py"
 ```
 
 **# Importante:**
