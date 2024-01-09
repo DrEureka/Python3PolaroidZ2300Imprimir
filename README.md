@@ -17,7 +17,13 @@ La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros di
 **# Requisitos:**
 
 - Python 3.x
-- Biblioteca de imágenes Python (PIL) (pip install Pillow o pip install --upgrade Pillow)
+- Biblioteca de imágenes Python (PIL)
+  
+```
+pip install Pillow
+o
+pip install --upgrade Pillow
+```
 
 **# Uso:**
 
