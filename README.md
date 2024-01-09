@@ -22,7 +22,7 @@ La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros di
 **# Uso:**
 
 1. Toma una tarjeta SD y coloca todas las imágenes que deseas imprimir en la tarjeta.
-2. Copia el script `Polaroid Z2300 -Para usar como Impresora FotosAImprimir.py` a la tarjeta SD + el archivo "PICT0001.JPG".
+2. Copia el archivo Py `Polaroid Z2300-FotosAImprimir.py` a la tarjeta SD + el archivo "PICT0001.JPG".
 3. Abre una sesión de shell en la tarjeta SD y ejecuta el siguiente comando:
 
 ```
