@@ -26,7 +26,6 @@ La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros di
 3. Abre una sesión de shell en la tarjeta SD y ejecuta el siguiente comando:
 
 ```
-
 python "Polaroid Z2300-FotosAImprimir.py"
 ```
 
