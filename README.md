@@ -1,6 +1,7 @@
- **# Python3PolaroidZ2300Imprimir 2024**
+ # Python3PolaroidZ2300Imprimir 2024
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-**# Convertir imágenes para que sean compatibles con Polaroid Z2300**
+Convertir imágenes para que sean compatibles con Polaroid Z2300
 
  ![polaroidz2300Dr](https://github.com/DrEureka/Python3PolaroidZ2300Imprimir/assets/44514691/8244c239-18d9-46d7-9c67-dbd8c94868ad)
 
