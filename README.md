@@ -12,7 +12,7 @@ Convertir imágenes para que sean compatibles con Polaroid Z2300
 
 **# Propósito:**
 
-La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros dispositivos, pero si se intenta imprimir imágenes que han sido recortadas en el PC, la Z2300 las rechazará con un "Error de archivo". Este script resuelve este problema redimensionando las imágenes a un tamaño compatible con la impresora, ademas esta version permite copiar los EXIF escenciales para el funcionamiento correcto y lectura de las imágenes.
+La impresora de la Z2300 puede utilizarse para imprimir imágenes desde otros dispositivos, pero si se intenta imprimir imágenes que han sido recortadas en el PC, la Z2300 las rechazará con un "Error de archivo". Este programa resuelve este problema redimensionando las imágenes a un tamaño compatible con la impresora, ademas esta version permite copiar los EXIF escenciales para el funcionamiento correcto y lectura de las imágenes.
 
 **# Requisitos:**
 
