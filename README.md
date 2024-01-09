@@ -2,6 +2,9 @@
 
 **# Convertir imágenes para que sean compatibles con Polaroid Z2300**
 
+ ![polaroidz2300Dr](https://github.com/DrEureka/Python3PolaroidZ2300Imprimir/assets/44514691/8244c239-18d9-46d7-9c67-dbd8c94868ad)
+
+
 **[https://www.dpreview.com/articles/3208135372/poloroid-creates-z2300-instant-digital-camera](https://www.dpreview.com/articles/3208135372/poloroid-creates-z2300-instant-digital-camera)**
 
 **[http://www.amazon.com/Polaroid-Z2300-Digital-Instant-Camera/dp/B008GVXL1A](http://www.amazon.com/Polaroid-Z2300-Digital-Instant-Camera/dp/B008GVXL1A)**
